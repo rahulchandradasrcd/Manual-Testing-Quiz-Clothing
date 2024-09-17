@@ -38,8 +38,12 @@ Comprehensive set of test cases for the login and sign-up functionalities of the
   1. ![number2](https://github.com/user-attachments/assets/e963f0b4-1f8c-4143-b2b8-d64162a87d4f)
 
 ## Final Report
+ ##### Sign Up 
   ![1a](https://github.com/user-attachments/assets/1ecdb331-4774-460a-b833-0c445b453cba)
   ![1b](https://github.com/user-attachments/assets/9c12e8d6-302f-454f-b179-9ede4db80728)
+
+##### Login
+
   ![2a](https://github.com/user-attachments/assets/b68299be-230b-4c26-b705-ecce064c7b6c)
   ![2b](https://github.com/user-attachments/assets/2bb41fe3-3e9c-48e2-a10b-529c833f1c51)
 
