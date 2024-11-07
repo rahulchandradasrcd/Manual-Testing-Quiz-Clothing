@@ -2,6 +2,8 @@
 Comprehensive set of test cases for the login and sign-up functionalities of the Quiz Clothing website. Thoroughly cover various scenarios, including authentication, registration, and error handling.
 ## Test Site
 [Quiz Clothing](https://www.quizclothing.co.uk/en-GB)
+## Test Site
+[Quiz Clothing](https://drive.google.com/drive/folders/1JN30dY_xo_uomUHOwAjMwqW27Xm8Xm8V)
 ## Features
   * A comprehensive set of manual test cases.
   * Test plans and documentation for organized testing.
